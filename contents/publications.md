@@ -36,7 +36,7 @@
 
 - Runduo Liang, Zhengyan Liu, <strong>Lei Lei</strong>, et al. (2023). Kilonova-Targeting Lightcurve Classification for Wide Field Survey Telescope. <strong>Universe</strong>. [[DOI]](https://doi.org/10.3390/universe10010010)[[arXiv]](https://arxiv.org/abs/2312.12169)
 
-- Zhen-Bo Su, Zhen-Yi Cai, Jun-Xian Wang, Tinggui Wang, Yongquan Xue, Min-Xuan Cai, Lulu Fan, Hengxiao Guo, Zhicheng He, Zizhao He, Xu-Fan Hu, Ji-an Jiang, Ning Jiang, Wen-Yong Kang, <strong>Lei Lei</strong>, et al. (2024). Could the Interband Lag of Active Galactic Nucleus Vary Randomly?. <strong>Universe</strong>. [[DOI]](https://iopscience.iop.org/article/10.3847/1538-4357/ad86bc)[[arXiv]](https://arxiv.org/abs/2410.10100)
+- Zhen-Bo Su, Zhen-Yi Cai, Jun-Xian Wang, Tinggui Wang, Yongquan Xue, Min-Xuan Cai, Lulu Fan, Hengxiao Guo, Zhicheng He, Zizhao He, Xu-Fan Hu, Ji-an Jiang, Ning Jiang, Wen-Yong Kang, <strong>Lei Lei</strong>, et al. (2024). Could the Interband Lag of Active Galactic Nucleus Vary Randomly?. <strong>ApJ</strong>. [[DOI]](https://iopscience.iop.org/article/10.3847/1538-4357/ad86bc)[[arXiv]](https://arxiv.org/abs/2410.10100)
 
 - Jing-Tai Wu, Si-Yi Jiang, <strong>Lei Lei </strong>, Bing-Qiu Chen. (2020). Mapping the Radial Velocities and Line Intensity Ratios of Diffuse Ionized Medium in the Orion Molecular Cloud Complex(猎户座分子云团中弥散电离介质的视向速度及线强度比分布). <strong>Acta Astronomica Sinica(天文学报)</strong>. [[PDF]](http://www.pmo.cas.cn/xscbw/twxb/xbll/2020_61/2020_61_6/202012/P020201202463611510182.pdf)[[NASA/ADS]](https://ui.adsabs.harvard.edu/abs/2020AcASn..61...68W/abstract)
 
