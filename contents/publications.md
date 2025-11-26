@@ -1,8 +1,10 @@
 #### Preprint
 
-- <strong>Lei. Lei</strong>, Ze-Fan Wang, Yi-Ying Wang, Lei Feng*, Yi-Zhong Fan*. Black Holes in the Red-sequence Elliptical Galaxies at Redshifts ∼0.7−2.5: Not Dark Energy Source but Remanants of Little Red Dots. <strong>Under Review</strong> [[arXiv]](https://arxiv.org/abs/2506.19589)
+- <strong>Lei. Lei</strong>, et al. Black Holes in the Red-sequence Elliptical Galaxies at Redshifts ∼0.7−2.5: Not Dark Energy Source but Remanants of Little Red Dots. <strong>Under Review</strong> [[arXiv]](https://arxiv.org/abs/2506.19589)
 
-- <strong>Lei. Lei</strong>, Ze-Fan Wang, Tong-Lin Wang, Yi-Ying Wang, Guan-Wen Yuan, Wei-Long Lin, Yi-Zhong Fan*. Stringent constraint on the CCC+TL cosmology with H(z) Measurements. <strong>Under Review</strong> [[arXiv]](https://arxiv.org/abs/2508.04277)
+- <strong>Lei. Lei</strong>, et al. Stringent constraint on the CCC+TL cosmology with H(z) Measurements. <strong>Under Review</strong> [[arXiv]](https://arxiv.org/abs/2508.04277)
+
+- Yi-Ying Wang, <strong>Lei. Lei</strong>, et al. Lensing amplitude anomaly and varying electron mass alleviate the Hubble and S8 tensions. <strong>JCAP accepted</strong> [[arXiv]](https://arxiv.org/abs/2508.19081)
 
 #### Published
 
@@ -18,7 +20,7 @@
 
 - <strong>Lei Lei</strong>, et al. (2021). On the Exposure Time of the Mephisto-W Survey (云南大学多通道测光巡天望远镜W巡天曝光时间优化). <strong>Astronomical Research and Technology(天文研究与技术)</strong>. [[DOI]](https://dx.doi.org/10.14005/j.cnki.issn1672-7673.20200713.001)[[ChinaXiv]](https://chinaxiv.org/abs/202007.00022)
 
-- Ze-Fan Wang, <strong>Lei Lei</strong>, et al. (2024). JWST observations constrain the time evolution of fine structure constants and dark energy-electromagnetic coupling. <strong>RAA</strong>. [[DOI]](https://doi.org/10.1088/1674-4527/ad9198)[[arXiv]](https://arxiv.org/abs/2411.08774)
+- Ze-Fan Wang, <strong>Lei Lei*</strong>, et al. (2024). JWST observations constrain the time evolution of fine structure constants and dark energy-electromagnetic coupling. <strong>RAA</strong>. [[DOI]](https://doi.org/10.1088/1674-4527/ad9198)[[arXiv]](https://arxiv.org/abs/2411.08774)
 
 - Yu-Xuan Chen, <strong>Lei Lei</strong>, et al. (2025). Searching for Axionlike Particles with X-Ray Observations of Alpha Centauri. <strong>PRL</strong>. [[DOI]](https://doi.org/10.1103/wy1x-1lh7)[[arXiv]](https://arxiv.org/abs/2410.16065)
 
@@ -31,3 +33,9 @@
 - Zi-Wei Wang*, <strong>Lei Lei</strong>, et al. (2023). The nanohertz stochastic gravitational wave background from cosmic string loops and the abundant high redshift massive galaxies. <strong>SCPMA</strong>. [[DOI]](https://doi.org/10.1007/s11433-023-2262-0)[[arXiv]](https://arxiv.org/abs/2306.17150)
 
 - Hao Zhou, Zhi-Ping Jin*, Stefano Covino, <strong>Lei Lei</strong>, et al. (2023). GRB 080503: A Very Early Blue Kilonova and an Adjacent Nonthermal Radiation Component. <strong>ApJ</strong>. [[DOI]](https://doi.org/10.3847/1538-4357/acac9b)[[arXiv]](https://arxiv.org/abs/2212.08555)
+
+- Runduo Liang, Zhengyan Liu, <strong>Lei Lei</strong>, et al. (2023). Kilonova-Targeting Lightcurve Classification for Wide Field Survey Telescope. <strong>Universe</strong>. [[DOI]](https://doi.org/10.3390/universe10010010)[[arXiv]](https://arxiv.org/abs/2312.12169)
+
+- Jing-Tai Wu, Si-Yi Jiang, <strong>Lei Lei </strong>, Bing-Qiu Chen. (2020). Mapping the Radial Velocities and Line Intensity Ratios of Diffuse Ionized Medium in the Orion Molecular Cloud Complex(猎户座分子云团中弥散电离介质的视向速度及线强度比分布). <strong>Acta Astronomica Sinica(天文学报)</strong>. [[PDF]](http://www.pmo.cas.cn/xscbw/twxb/xbll/2020_61/2020_61_6/202012/P020201202463611510182.pdf)[[NASA/ADS]](https://ui.adsabs.harvard.edu/abs/2020AcASn..61...68W/abstract)
+
+- Jing-Tai Wu, Jin-Da Li, Si-Yi Jiang, <strong>Lei Lei </strong>, Xiang-Hua Li. (2020). The difference method forsolving the reaction-diffusion equation(反应扩散方程的差分解法———以行星冷却模型为例). <strong>College Physics(大学物理)</strong>. [[DOI]](https://dxwl.bnu.edu.cn/CN/Y2020/V39/I03/72)
