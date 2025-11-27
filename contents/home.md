@@ -1,8 +1,8 @@
 
 
-[[ORCID]](https://orcid.org/0000-0003-4631-1915)
+[[ORCID]](https://orcid.org/0000-0003-4631-1915) 
 
-I am currently a PhD candidate in Purple Mountain Observatory (PMO) and University of Science and Technology of China (USTC). 
+I am currently a PhD candidate in Purple Mountain Observatory (PMO，紫金山天文台) and University of Science and Technology of China (USTC，中国科学技术大学). 
 
 I was born and raised in two villages in Gansu (陇中) Province in western China, called BuDong (堡东,天水) Village and CiWa (茨屲,定西) Village, where there are brilliant starry skies, rolling mountains, shallow dams, and slender rivers.
 
