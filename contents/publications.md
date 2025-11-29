@@ -10,11 +10,11 @@
 
 - <strong>Lei Lei</strong>*, et al. (2025). A Dense Dark Matter Core of the Subhalo in the Strong Lensing System JVAS B1938+666. <strong>ApJL</strong>. [[DOI]](https://doi.org/10.3847/2041-8213/ae047c)[[arXiv]](https://arxiv.org/abs/2509.07808)
 
-- <strong>Lei Lei</strong>, et al. (2024). Black holes as the source of dark energy: A stringent test with high-redshift JWST AGNs. SCIENCE CHINA Physics, Mechanics \& Astronomy<strong>(SCPMA)</strong>. <strong>journal [[Highlight]](https://mp.weixin.qq.com/s/rzg8QB1PPjAAYCZgdi1AyA) & [[ESI highly cited]](https://mp.weixin.qq.com/s/CCWL1D8Jp5CX4Q3h29EBKg)</strong>  [[DOI]](https://doi.org/10.1007/s11433-023-2233-2)[[arXiv]](https://arxiv.org/abs/2305.03408) 
+- <strong>Lei Lei</strong>, et al. (2024). Black holes as the source of dark energy: A stringent test with high-redshift JWST AGNs. SCIENCE CHINA Physics, Mechanics \& Astronomy<strong>(SCPMA)</strong>. <strong>[[journal Highlight]](https://mp.weixin.qq.com/s/rzg8QB1PPjAAYCZgdi1AyA) & [[ESI highly cited]](https://mp.weixin.qq.com/s/CCWL1D8Jp5CX4Q3h29EBKg)</strong>  [[DOI]](https://doi.org/10.1007/s11433-023-2233-2)[[arXiv]](https://arxiv.org/abs/2305.03408) 
 
 - <strong>Lei Lei</strong>,  et al. (2025). Can Dark Stars account for the star formation efficiency excess at very high redshifts?. <strong>ApJ</strong>. [[DOI]](https://doi.org/10.3847/1538-4357/ada93b)[[arXiv]](https://arxiv.org/abs/2501.07119)
 
-- <strong>Lei Lei</strong>, et al. (2023). Limiting Magnitudes of the Wide Field Survey Telescope (WFST). <strong>RAA</strong>.  <strong>journal [[Highlight]](https://www.raa-journal.org/issues/high/202303/t20230328_161494.html)</strong> [[DOI]](https://doi.org/10.1088/1674-4527/acb877)[[arXiv]](https://arxiv.org/abs/2301.03068)[[Code-Github]](https://github.com/Leilei-astro/WFST-limiting-magnitudes) 
+- <strong>Lei Lei</strong>, et al. (2023). Limiting Magnitudes of the Wide Field Survey Telescope (WFST). <strong>RAA</strong>.  <strong>[[journal Highlight]](https://www.raa-journal.org/issues/high/202303/t20230328_161494.html)</strong> [[DOI]](https://doi.org/10.1088/1674-4527/acb877)[[arXiv]](https://arxiv.org/abs/2301.03068)[[Code-Github]](https://github.com/Leilei-astro/WFST-limiting-magnitudes) 
 
 - <strong>Lei Lei</strong>, et al. (2022). Identifications of RR Lyrae Stars and Quasars from the Simulated Data of Mephisto-W Survey. <strong>RAA</strong>. [[DOI]](https://doi.org/10.1088/1674-4527/ac3adc)[[arXiv]](https://arxiv.org/abs/2111.08316)
 
