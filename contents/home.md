@@ -31,11 +31,8 @@ Bachelor Thesis Advisor: <strong>Peng-Fei Zhang</strong> ([[张鹏飞]](http://w
 #### Research Interests
 Dark Matter, Dark Energy, Sky Survey, Observational Cosmology, Gravitaional Strong Lensing, X-Ray Astronomy, High red-shift Galaxies and First Star Formation.
 
-#### My wife Dr. Qiao Li(李巧)[[ORCID]](https://orcid.org/0000-0001-7540-9335)
-- Dr. Li is a postdoc Solarphysicist in PMO.
-Her hometown is Chongqing(重庆), a city full of endless delicious food. 
-
-- Researches: \
-Solar flares physics and observations, High energy solar particles, Hard X-ray solar emission, Thermal and Non-thermal mechanism of flares, Image alignment. 
+#### My wife [[Dr. Qiao Li(李巧)]](https://qiaoli-astro.github.io/)
+Dr. Li is a postdoc Solarphysicist in PMO. Her hometown is Chongqing(重庆), a city full of endless delicious food. \
+Researches: Solar flares physics and observations, High energy solar particles, Hard X-ray solar emission, Thermal and Non-thermal mechanism of flares, Image alignment. 
 
 
